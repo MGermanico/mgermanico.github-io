@@ -6,6 +6,6 @@
     <title>ELIGE PAG</title>
 </head>
 <body>
-    <a href="./test/index.jsp">test</a>
+    <a href="./test/index.jsp">si</a>
 </body>
 </html>
